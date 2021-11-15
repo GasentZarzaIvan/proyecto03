@@ -61,6 +61,7 @@ El repositorio tiene la siguiente estructura:
 >
 >src
 >>insertActores.js
+>>
 >>enunciadosActores.js
 >
 >doc
